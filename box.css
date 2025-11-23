@@ -1,0 +1,24 @@
+.container{
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;    
+    height: 90vh;
+    flex-wrap: wrap; 
+    align-content: center; 
+  
+}
+ 
+.box{
+    flex-basis: 10rem;
+    flex-shrink: 1;
+    width: 5rem;
+    height: 5rem;
+    background: gold;
+    margin: 1rem;
+}
+
+.box-one{
+    
+}
